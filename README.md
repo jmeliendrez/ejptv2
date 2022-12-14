@@ -2,12 +2,12 @@
 
 Here I am recording my journey to earning my eJPT certification.
 
-I have currently completed:
+### Completed:
 - Assessment Methodologies: Information Gathering (11/22)
 - Assessment Methodologies: Footprinting & Scanning (11/22)
 - Assessment Methodologies: Enumeration (14/12/22)
 
-To Complete:
+### To Complete:
 - Assessment Methodologies: Vulnerability Assessment
 - Assessment Methodologies: Auditing Fundamentals
 - Host & Network Penetration Testing: System/Host Based Attacks
