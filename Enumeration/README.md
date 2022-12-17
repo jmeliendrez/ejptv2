@@ -7,7 +7,7 @@
 **What is SMB?**
 <p>Server Message Block (SMB) is essentially a communication protocol operating at the application layer. It enables clients to ‘talk’ to a server. It is primarily on Windows systems while macOS and Linux run clients to connect to an SMB server. It makes it possible for remote users to access data on the server. Furthermore, it enables remote access to other resources such as printers.</p>
 
-[SMB Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/SMB%20Enumeration%20Basics.md)
+[SMB Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/SMB%20Enumeration%20Basic.md)
 
 **Further Reading**
 <p>Here are a few articles I found helpful in understanding the protocol. It's important to understand the technology you are testing.</p>
