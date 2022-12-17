@@ -9,6 +9,15 @@
 
 [SMB Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/SMB%20Enumeration%20Basics.md)
 
+**Further Reading**
+<p>Here are a few articles I found helpful in understanding the protocol. It's important to understand the technology you are testing.</p>
+
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Server_Message_Block)
+
+- [Tech Target Article](https://www.techtarget.com/searchnetworking/definition/Server-Message-Block-Protocol)
+
+- [NordVPN Article](https://nordvpn.com/blog/what-is-smb/)
+
 ## FTP
 **What is FTP?**
 <p></p>
