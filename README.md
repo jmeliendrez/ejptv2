@@ -5,7 +5,7 @@ Here I am recording my journey to earning my eJPT certification.
 ### Completed:
 - Assessment Methodologies: Information Gathering (11/22)
 - Assessment Methodologies: Footprinting & Scanning (11/22)
-- Assessment Methodologies: Enumeration (14/12/22)
+- Assessment Methodologies: [Enumeration](https://github.com/jmeliendrez/ejptv2/tree/main/Enumeration) (14/12/22)
 
 ### To Complete:
 - Assessment Methodologies: Vulnerability Assessment
