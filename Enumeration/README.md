@@ -27,11 +27,11 @@
 **Further Reading**
 <p>Here are a few articles I found helpful in understanding the protocol.</p>
 
-- (Wikipedia Article)[https://en.wikipedia.org/wiki/File_Transfer_Protocol]
+- [Wikipedia Article](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 
-- (RFC 959: FTP)[https://datatracker.ietf.org/doc/html/rfc959]
+- [RFC 959: FTP](https://datatracker.ietf.org/doc/html/rfc959)
 
-- (TechTarget Article)[https://www.techtarget.com/searchnetworking/definition/File-Transfer-Protocol-FTP]
+- [TechTarget Article](https://www.techtarget.com/searchnetworking/definition/File-Transfer-Protocol-FTP)
 
 ## SSH
 **What is SSH?**
