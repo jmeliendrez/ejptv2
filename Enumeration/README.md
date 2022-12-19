@@ -47,28 +47,28 @@
 
 ## HTTP
 **What is HTTP?**
-<p></p>
+<p>Hyper-Text Transfer Protocol (HTTP) is the backbone protocol of the Internet. HTTP is used to get pages, images, videos and other data to a client. It is based on a client-serve architecture. Clients request assets from a server and the server responds by delivering the content, if available/authorised. HTTP is an Application layer protocol which means that web-browsers, as clients, are able to make requests to servers. On it's own HTTP is insecure but it has been paired with TLS encryption to make traffic secure, HTTPS (HTTP Secure).</p>
 
 [HTTP Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/HTTP%20Enumeration%20Basics.md)
 
 **Further Reading**
 
-- []()
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-- []()
+- [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
-- []()
+- [Cloudflare Article](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 
 ## SQL
 **What is SQL?**
-<p></p>
+<p>Structure-Query Language (SQL) is a programming language used specifically to create, manage and access databases. It is used in relational database management systems (RDMS) such as MySQL, SQLite, Oracle, though the syntax may differ. It is important to understand SQL on asurface level and how relational databases work so that you can navigate around it.</p>
 
 [SQL Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/SQL%20Enumeration%20Basics.md)
 
 **Further Reading**
 
-- []()
+- [Wikipedia Article](https://en.wikipedia.org/wiki/SQL)
 
-- []()
+- [w3schools: Introduction to SQL](https://www.w3schools.com/sql/sql_intro.asp)
 
-- []()
+- [Tutorials Point: Introduction to SQL](https://www.tutorialspoint.com/sql/sql-overview.htm)
