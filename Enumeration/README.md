@@ -10,7 +10,6 @@
 [SMB Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/SMB%20Enumeration%20Basic.md)
 
 **Further Reading**
-<p>Here are a few articles I found helpful in understanding the protocol. It's important to understand the technology you are testing.</p>
 
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Server_Message_Block)
 
@@ -25,7 +24,6 @@
 [FTP Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/FTP%20Enumeration%20Basics.md)
 
 **Further Reading**
-<p>Here are a few articles I found helpful in understanding the protocol.</p>
 
 - [Wikipedia Article](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 
@@ -35,9 +33,17 @@
 
 ## SSH
 **What is SSH?**
-<p></p>
+<p>Secure Shell Protocol (SSH) is a secure login connection protocol that functions at the Application layer of the OSI model. It was designed as a replacement for Telnet which was insecure due to plain-text transmission and communication. It is used for remote access via the command-line interface (CLI) in a client-server model. SSH establishes a secure connection using public and private keys. Then it encrypts traffic using symmetric encryption. For more information vie the SSH Academy documentation.</p>
 
 [SSH Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/SSH%20Enumeration%20Basics.md)
+
+**Further Reading**
+
+- [SSH Academy](https://www.ssh.com/academy/ssh/protocol)
+
+- [Wikipedia Article](https://en.wikipedia.org/wiki/Secure_Shell)
+
+- [UCL Article](https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it)
 
 ## HTTP
 **What is HTTP?**
@@ -45,8 +51,24 @@
 
 [HTTP Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/HTTP%20Enumeration%20Basics.md)
 
+**Further Reading**
+
+- []()
+
+- []()
+
+- []()
+
 ## SQL
 **What is SQL?**
 <p></p>
 
 [SQL Enumeration Basics](https://github.com/jmeliendrez/ejptv2/blob/main/Enumeration/Basics/SQL%20Enumeration%20Basics.md)
+
+**Further Reading**
+
+- []()
+
+- []()
+
+- []()
